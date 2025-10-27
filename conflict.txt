@@ -1,0 +1,9 @@
+Sometimes files cannot be automatically 
+merged because your local changes conflict
+with the changes from the commits merged.
+
+Use the Resolve tool to make this easier.
+You can handle several files at once just
+dragging in the parts of the file you want
+to keep and dragging out to discard.
+Use all chunks from HEAD or temp by tapping next to the filename.

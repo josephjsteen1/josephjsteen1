@@ -1,0 +1,5 @@
+Thanks for using AppTesters Signing Service
+
+Your certificate password is 1.
+
+Install Instructions: https://apptesters.org/instructions
